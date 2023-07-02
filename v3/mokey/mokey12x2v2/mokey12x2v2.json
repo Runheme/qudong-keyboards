@@ -1,5 +1,5 @@
 {
-  "name": "mokey12x2_v2",
+  "name": "mokey12x2v2",
   "vendorId": "0x6653",
   "productId": "0x012B",
   "matrix": { "rows": 5,"cols": 4 },
