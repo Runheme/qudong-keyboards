@@ -3,7 +3,6 @@
     "target": "es2017",
     "baseUrl": "./",
     "rootDir": "./",
-    "esModuleInterop": true,
     "jsx": "react",
     "module": "commonjs",
     "moduleResolution": "node",
